@@ -1,36 +1,34 @@
-# 🎥 Top 50 YouTube Live Sub Count System — Free & Open Source
-A real-time Top 50 YouTube subscriber counter system, inspired by MDM, built with 💻 Node.js + 🔧 Express + ⚡ Socket.io + 🖥️ Live Frontend!
+# 📊 Top 50 YouTube Live Subscriber Count System (Free & Open Source)
 
-🚀 Features
-📊 Real-time sub count updates
+A real-time **Top 50 YouTube Subscriber Count** system inspired by **MDM**, built using **Node.js** and the **YouTube Data API**, with a clean **HTML frontend** to display live rankings and estimation graphs.
 
-🌐 Live web dashboard
+Whether you're a YouTube fan, developer, or creator — this project is for you!  
+And yes, it's **100% free and open-source**. 🎉
 
-🔎 Custom channel list support
+---
 
-📁 Lightweight and optimized
+## 🚀 Features
 
-✅ Free and easy to set up
+- 🔴 Real-time subscriber tracking
+- ⚙️ Built with Node.js + Express backend
+- 🌐 Live HTML website to display Top 50 channels
+- 🔄 Auto-refreshing data (using setInterval or optional Socket.io)
+- 🧪 Estimation logic (basic trending growth simulation)
+- ✨ Easy to set up and deploy
 
-📦 Tech Stack
-Node.js
+---
 
-Express.js
+## 🧰 Tech Stack
 
-Socket.io
+- **Backend**:  
+  - Node.js  
+  - Express.js  
+  - YouTube Data API v3  
 
-HTML/CSS/JS (Frontend)
+- **Frontend**:  
+  - HTML  
+  - CSS  
+  - JavaScript  
 
-📌 Getting Started
-Clone the repo
 
-Run npm install
-
-Add your YouTube API key
-
-Run node server.js
-
-Open in browser and enjoy the live magic! ✨
-
-Made with ❤️ by [YourName]
-Subscribe on YouTube 📺 and stay tuned for more updates!
+---
