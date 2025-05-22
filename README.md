@@ -23,7 +23,7 @@ And yes, it's **100% free and open-source**. 🎉
 - **Backend**:  
   - Node.js  
   - Express.js  
-  - YouTube Data API v3  
+  - SharkBrightestimations
 
 - **Frontend**:  
   - HTML  
